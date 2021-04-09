@@ -16,16 +16,17 @@ This project can be run directly on google colab or jupyter notebook by copying 
 Steps for Jupyter Notebook:
 1. Create a virtual environment
 2. Install following libraries:
-  1. pip install keras==2.4.3
-  2. pip install numpy==1.19.5
-  3. pip install opencv-python==4.1.2
-  4. pip install scipy==1.4.1
-  5. pip install scikit-image==0.16.2
-  6. pip install matplotlib==3.2.2
-  7. pip install tensorflow==2.4.1
-  8. pip install python-mnist
-  9. pip install Pillow==7.1.2
-  10. pip install pandas==1.1.5
-  11. pip install sklearn==0.22.2
-  12. pip install seaborn==0.11.1
+  \npip install keras==2.4.3
+  \npip install numpy==1.19.5
+  \npip install opencv-python==4.1.2
+  \npip install scipy==1.4.1
+  \npip install scikit-image==0.16.2
+  \npip install matplotlib==3.2.2
+  \npip install tensorflow==2.4.1
+  \npip install python-mnist
+  \npip install Pillow==7.1.2
+  \npip install pandas==1.1.5
+  \npip install sklearn==0.22.2
+  n\pip install seaborn==0.11.1
+  \n
 3. Run The .ipynb file within the same folders as other files in the repository to replicate same results.
