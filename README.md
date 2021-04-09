@@ -31,4 +31,4 @@ Steps for Jupyter Notebook:
 3. Run The .ipynb file within the same folders as other files in the repository to replicate same results.
 
 ***Incase of a 2 shape test input please expand the dimensions of the instances to 3 using expand_dims() method with axis=0 arguement***
-***To load the model to be used just input the model folder to be loaded into the load_model() function of keras. All models are saved with their respective names as in .ipynb file*
+***To load the model to be used just input the model folder to be loaded into the load_model() function of keras. All models are saved with their respective names as in .ipynb file***
